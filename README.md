@@ -23,3 +23,5 @@ Chris Baird assisted me while working on this app.
 ## Deployed Application
 
 https://peytonweber419.github.io/Code-Quiz/
+
+![image](https://github.com/peytonweber419/Code-Quiz/assets/144742645/62583287-57a5-436e-821c-5fae5da2756c)
